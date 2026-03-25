@@ -23,3 +23,9 @@ Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Pers
 - **错误归因组件**：任务：分析和用户交互的错误案例的原因，并根据不同类型的错误，选择不同优化方法；
 - 快进化：直接对memory/skill/user state进行修改
 - 慢进化：记录错误案例，结合修改后的正确memory/skill/user state进行 自举式Lora微调/ RL reward 有另一个模型决定
+
+
+`code
+纪要：  去找怎么让agent完成任务更好的benchmark 这才是具体问题
+
+`
