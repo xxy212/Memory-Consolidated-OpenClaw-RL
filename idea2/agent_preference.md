@@ -17,3 +17,8 @@
 [4]: https://arxiv.org/html/2505.13176v1 "ToolSpectrum : Towards Personalized Tool Utilization for Large Language Models"
 [5]: https://arxiv.org/html/2601.02643v2?utm_source=chatgpt.com "Preference-Aware Infeasibility Resolution in Tool-Calling ..."
 [6]: https://arxiv.org/html/2503.04569v1 "ValuePilot: A Two-Phase Framework for Value-Driven Decision-Making"
+
+
+
+
+<img width="2604" height="2292" alt="image" src="https://github.com/user-attachments/assets/2e8f3fb2-3639-410b-a8d5-3ab82f17c8e3" />
